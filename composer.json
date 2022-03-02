@@ -1,0 +1,17 @@
+{
+    "name": "nati/dealers-choice",
+    "description": "ce vreti voi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nati\\DealersChoice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PopNatanael",
+            "email": "natipop1@yahoo.com"
+        }
+    ],
+    "require": {}
+}
