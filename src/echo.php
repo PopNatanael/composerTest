@@ -6,6 +6,6 @@ class echo
 {
     public function Echo()
     {
-        echo 'something';
+        echo '1337';
     }
 }
